@@ -1,19 +1,13 @@
-##👋 Hi, I'm Shivaraja
+👋 Hi, I'm Shivaraja
 
 <!--
-### 🌟 About Me
+🌟 About Me
 I am a developer passionate about building **secure, scalable, and user-centric systems**. Currently, I am focused on crafting an **Online Learning Platform** and a **Job Portal**.
 
 - 🔭 I’m currently working on high-impact web applications.
 - 🌱 I’m currently learning advanced system architecture and security protocols.
 - 📍 Based in Bangalore, India.
 
----
-
-### 🛠️ Tech Stack
-- **Languages:** PHP, JavaScript, HTML, CSS
-- **Projects:** Job Portals, E-commerce, Personal Portfolios
-- **Focus:** System Reliability & User Experience
 
 ---
 
