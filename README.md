@@ -4,7 +4,7 @@
 🌟 About Me
 I am a developer passionate about building **secure, scalable, and user-centric systems**. Currently, I am focused on crafting an **Online Learning Platform** and a **Job Portal**.
 
-- 🔭 I’m currently working on high-impact web applications.
+- 🔭 I’m currently working on high-impact Java full Stack Applications
 - 🌱 I’m currently learning advanced system architecture and security protocols.
 - 📍 Based in Bangalore, India.
 
