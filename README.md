@@ -1,16 +1,25 @@
-## Hi there 👋
+##👋 Hi, I'm Shivaraja
 
 <!--
-**shivarajamurugan/shivarajamurugan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 About Me
+I am a developer passionate about building **secure, scalable, and user-centric systems**. Currently, I am focused on crafting an **Online Learning Platform** and a **Job Portal**.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on high-impact web applications.
+- 🌱 I’m currently learning advanced system architecture and security protocols.
+- 📍 Based in Bangalore, India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🛠️ Tech Stack
+- **Languages:** PHP, JavaScript, HTML, CSS
+- **Projects:** Job Portals, E-commerce, Personal Portfolios
+- **Focus:** System Reliability & User Experience
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25"></a> 
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25"></a>
+</p>
 -->
