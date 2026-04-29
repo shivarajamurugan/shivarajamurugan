@@ -13,7 +13,8 @@ I am a developer passionate about building **secure, scalable, and user-centric 
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="www.linkedin.com/in/shivarajam" height="25"></a> 
+  <a href="https:www.linkedin.com/in/shivarajam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25"></a>
+
 <a href="mailto:shivarajamurugan2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25"></a>
 </p>
 
