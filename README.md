@@ -1,8 +1,8 @@
-👋 Hi, I'm Shivaraja
+# 👋 Hi, I'm Shivaraja
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer;Building+Scalable+Systems;Crafting+User-Centric+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
 🌟 About Me
