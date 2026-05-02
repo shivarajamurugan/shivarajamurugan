@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Shivaraja
 
-<p align="left">
+<h1 align="left">🌟 About Me</h1>h1>
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </p>
-🌟 About Me
-I am a developer passionate about building secure, scalable, and user-centric systems**. Currently, I am focused on crafting an Online Learning Platform and a Job Portal.
+
+I am a java developer passionate about building secure, scalable, and user-centric systems**. Currently, I am focused on crafting an Online Learning Platform and a Job Portal.
 
 - 🔭 I’m currently working on high-impact Java full Stack Applications
 - 🌱 I’m currently learning advanced system architecture and security protocols.
