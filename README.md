@@ -7,16 +7,11 @@
   </a>
 </p>
 
-I am a java developer passionate about building secure, scalable, and user-centric systems**. Currently, I am focused on crafting an Online Learning Platform and a Job Portal.
+I am a java full stack developer passionate about building secure, scalable, and user-centric systems. Currently, I am focused on crafting an Online Learning Platform and a Job Portal.
 
-- 🔭 I’m currently working on high-impact Java full Stack Applications
-- 🌱 I’m currently learning advanced system architecture and security protocols.
-- 📍 Based in Bangalore, India.
+ 🛠️ Tech Stack & Tools
 
-
-### 🛠️ Tech Stack & Tools
-
-**Frontend Development**
+<h1>Frontend Development</h1>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -26,7 +21,7 @@ I am a java developer passionate about building secure, scalable, and user-centr
   <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-**Backend & Database**
+<h1>Backend & Database</h1>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
