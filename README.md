@@ -1,39 +1,176 @@
-<h1 align="center"># 👋 Hi, I'm Shivaraja</h1>
+<h1 align="center">👋 Hi, I'm Shivaraja</h1>
 
-<h1 align="left">🌟 About Me</h1>
+<h3 align="center">
+🚀 Java Full Stack Developer | Frontend Developer | UI Designer
+</h3>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&width=435&lines=Java+Full+Stack+Developer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Developer;Frontend+%26+UI+Designer;Building+Modern+Web+Applications" />
 </p>
 
-I am a java full stack developer passionate about building secure, scalable, and user-centric systems. Currently, I am focused on crafting an Online Learning Platform and a Job Portal.
-
- 🛠️ Tech Stack & Tools
-
-<h1>Frontend Development</h1>
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-
-<h1>Backend & Database</h1>
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
 ---
 
-### 🌐 Connect with Me
+# 🌟 About Me
+
+💻 Passionate Java Full Stack Developer with experience in building scalable and responsive web applications.
+
+🚀 Skilled in frontend development, backend APIs, database integration, and UI/UX design.
+
+🎯 Currently focused on:
+- Online Learning Platform
+- Job Portal System
+- Ecommerce Applications
+- Requirement Management System
+
+🔥 Interested in:
+- Full Stack Development
+- Software Architecture
+- Modern UI/UX
+- API Development
+- Cloud & Deployment
+
+---
+
+# 🚀 Tech Stack
+
+## 🎨 Frontend Development
+
 <p align="left">
-<a href="https://www.linkedin.com/in/shivarajam"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
-<a href="mailto:shivarajamurugan2000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="25"></a>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery" />
+
 </p>
 
+---
+
+## ⚙️ Backend Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,php" />
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivarajamurugan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarajamurugan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivarajamurugan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivarajamurugan&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 ShopEase Ecommerce
+Modern React Ecommerce Website with:
+- Authentication
+- Search Functionality
+- Cart Management
+- Responsive UI
+- LocalStorage Integration
+
+---
+
+## 📚 Online Learning Platform
+Features:
+- Course Management
+- Video Learning
+- Student Dashboard
+- Authentication
+- Admin Panel
+
+---
+
+## 💼 Job Portal System
+Features:
+- Job Posting
+- Apply Jobs
+- Resume Upload
+- Admin Dashboard
+- User Authentication
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shivarajam">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shivarajamurugan2000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=shivarajamurugan&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+💡 I love creating modern full stack applications and solving real-world problems using technology.
+
+---
+
+<p align="center">
+
+⭐ From <a href="https://github.com/shivarajamurugan">Shivaraja</a>
+
+</p>
