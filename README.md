@@ -80,9 +80,11 @@
 
 ## 🤖 AI Productivity Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=chatgpt,claude" /> 
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-9b51e0?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
-💡 *Leveraging ChatGPT, Google Gemini, and Claude AI for optimized development workflows.*
+💡 *Leveraging ChatGPT, Google Gemini, and Claude AI for optimized software development and workflow design workflows.*
 
 ---
 
