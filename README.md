@@ -73,22 +73,11 @@
 
 
 
-
-# 📊 GitHub Stats
-
+# 📊 GitHub Statistics
 <p align="center">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shivarajamurugan&show_icons=true&theme=tokyonight"
-    height="180em"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarajamurugan&layout=compact&theme=tokyonight"
-    height="180em"
-  />
-
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivarajamurugan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/
+    ?username=shivarajamurugan&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 # 🔥 GitHub Streak
 
