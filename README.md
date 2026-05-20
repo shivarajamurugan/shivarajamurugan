@@ -18,20 +18,20 @@
 
 # 🌟 About Me
 
-💻 **Passionate Java Full Stack Developer** with professional experience building responsive, scalable, and user-friendly web applications.
+[cite_start]💻 **Passionate Java Full Stack Developer** with professional experience building responsive, scalable, and user-friendly web applications[cite: 6, 8].
 
-🚀 Skilled in end-to-end application development, backend APIs, database management, and UI/UX design optimizations.
+[cite_start]🚀 Skilled in end-to-end application development, backend APIs, database management, and UI/UX design optimizations[cite: 7].
 
 🎯 **Currently focused on:**
-- Building enterprise-grade full-stack systems using **Spring Boot** and **React JS**.
+- [cite_start]Building enterprise-grade full-stack systems using **Spring Boot** and **React JS**[cite: 6].
 - Developing the **Smart Job Search Portal** and an **NLP Chatbot** to demonstrate end-to-end integration.
-- Implementing robust security and data architectures.
+- [cite_start]Implementing robust security and data architectures[cite: 11, 16].
 
 🔥 **Areas of Interest:**
 - Full Stack Enterprise Development
-- Microservices & Rest API Architecture
-- Modern Responsive UI/UX Design
-- DevOps, Containers, and Cloud Deployment
+- [cite_start]Microservices & Rest API Architecture 
+- [cite_start]Modern Responsive UI/UX Design [cite: 7, 16]
+- [cite_start]DevOps, Containers, and Cloud Deployment [cite: 15]
 
 ---
 
@@ -42,29 +42,41 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" />
 </p>
 
-## ⚙️ Backend Development & Concepts
+## ⚙️ Backend Development & Architecture
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
-💡 *Core Competencies: JDBC, Servlets, Hibernate, Spring Boot, MVC, REST API, Microservices, JWT Authentication, Lombok*
+
+### 🛠️ Core Backend & Framework Competencies:
+* [cite_start]**Languages & Core Frameworks:** Java, Spring, Spring Boot, Spring MVC 
+* [cite_start]**Data Persistence & ORM:** JDBC, Servlets, Hibernate 
+* [cite_start]**API Architecture:** REST APIs, Microservices Architecture 
+* [cite_start]**Security & Optimization:** JWT (JSON Web Tokens) Authentication, Lombok 
+* [cite_start]**Core Concepts:** CRUD Operations, API Integration [cite: 16]
+
+---
 
 ## 🗄️ Database Management
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-💡 *Core Competencies: SQL, RDBMS*
+[cite_start]💡 *Core Competencies: SQL, MySQL, RDBMS* [cite: 12]
+
+---
 
 ## 🛠️ Tools & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,canva,docker,linux" />
 </p>
-💡 *Deployment & Platforms: Netlify, Vercel, GitHub Pages, Basic CI/CD Knowledge*
+[cite_start]💡 *Deployment & Platforms: Netlify, Vercel, GitHub Pages, Basic CI/CD Knowledge* [cite: 13, 15]
+
+---
 
 ## 🤖 AI Productivity Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=chatgpt,claude" /> 
 </p>
-💡 *Leveraging ChatGPT, Google Gemini, and Claude AI for optimized development workflows.*
+[cite_start]💡 *Leveraging ChatGPT, Google Gemini, and Claude AI for optimized development workflows.* [cite: 14]
 
 ---
 
@@ -92,11 +104,11 @@
 # 🚀 Featured Projects
 
 ## 📦 Sainik Packers and Movers
-**Domain:** Logistics & Relocation Service Management System
-- Developed a responsive web-based logistics application for online service bookings and enquiries.
-- Designed dynamic, secure booking forms featuring clean frontend client-side validations.
-- Engineered separate user, booking tracking, and administrative control modules for seamless workflow efficiency.
-- **Technologies:** HTML5, CSS3, Bootstrap, JavaScript
+[cite_start]**Domain:** Logistics & Relocation Service Management System [cite: 27]
+- [cite_start]Developed a responsive web-based logistics application for online service bookings and enquiries[cite: 30].
+- [cite_start]Designed dynamic, secure booking forms featuring clean frontend client-side validations[cite: 31].
+- [cite_start]Engineered separate user, booking tracking, and administrative control modules for seamless workflow efficiency[cite: 32].
+- [cite_start]**Technologies:** HTML5, CSS3, Bootstrap, JavaScript [cite: 28]
 
 ## 💼 Smart Job Search Portal
 **Domain:** Enterprise Human Resources & Recruitment Stack
@@ -112,7 +124,7 @@
 ---
 
 # 🏅 Professional Certifications
-* **IBM Full Stack Software Developer Professional Certificate** – Credentials verifying comprehensive expertise across modern web stacks, including cloud-native architectures, containerization basics, and React applications. *(Credential ID: 49fd4d9cf526445e86c2fa4073f8f6df)*
+* [cite_start]**IBM Full Stack Software Developer Professional Certificate** – Credentials verifying comprehensive expertise across modern web stacks, including cloud-native architectures, containerization basics, and React applications[cite: 38, 39]. [cite_start]*(Credential ID: 49fd4d9cf526445e86c2fa4073f8f6df)* [cite: 39]
 
 ---
 
