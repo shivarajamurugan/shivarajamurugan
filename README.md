@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hi, I'm Shivaraja</h1>
 
 <h3 align="center">
@@ -5,7 +6,17 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Developer;Frontend+%26+UI+Designer;Building+Modern+Web+Applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+Developer;Spring+Boot+Developer;Frontend+%26+UI+Designer;Building+Modern+Web+Applications" />
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shivarajamurugan&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/shivarajamurugan?style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/stars/shivarajamurugan?style=for-the-badge&color=yellow" />
+
 </p>
 
 ---
@@ -17,12 +28,14 @@
 🚀 Skilled in frontend development, backend APIs, database integration, and UI/UX design.
 
 🎯 Currently focused on:
+
 - Online Learning Platform
 - Job Portal System
 - Ecommerce Applications
 - Requirement Management System
 
 🔥 Interested in:
+
 - Full Stack Development
 - Software Architecture
 - Modern UI/UX
@@ -36,9 +49,7 @@
 ## 🎨 Frontend Development
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery" />
 </p>
 
 ---
@@ -46,9 +57,7 @@
 ## ⚙️ Backend Development
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,php" />
-
+  <img src="https://skillicons.dev/icons?i=java,spring,php" />
 </p>
 
 ---
@@ -56,9 +65,7 @@
 ## 🗄️ Database
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
@@ -66,12 +73,10 @@
 ## 🛠️ Tools & Platforms
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
-
+---
 
 # 📊 GitHub Statistics
 
@@ -115,37 +120,14 @@
 
 </p>
 
-
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-  <img 
-    src="https://streak-stats.demolab.com?user=shivarajamurugan&theme=tokyonight"
-  />
-
-</p>
-
-
-
-
-
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shivarajamurugan&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
 ---
 
 # 🚀 Featured Projects
 
 ## 🛒 ShopEase Ecommerce
+
 Modern React Ecommerce Website with:
+
 - Authentication
 - Search Functionality
 - Cart Management
@@ -155,7 +137,9 @@ Modern React Ecommerce Website with:
 ---
 
 ## 📚 Online Learning Platform
+
 Features:
+
 - Course Management
 - Video Learning
 - Student Dashboard
@@ -165,7 +149,9 @@ Features:
 ---
 
 ## 💼 Job Portal System
+
 Features:
+
 - Job Posting
 - Apply Jobs
 - Resume Upload
@@ -179,22 +165,12 @@ Features:
 <p align="left">
 
 <a href="https://www.linkedin.com/in/shivarajam">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:shivarajamurugan2000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=shivarajamurugan&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </p>
 
@@ -206,8 +182,17 @@ Features:
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivarajamurugan/shivarajamurugan/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 <p align="center">
 
 ⭐ From <a href="https://github.com/shivarajamurugan">Shivaraja</a>
 
 </p>
+```
