@@ -73,30 +73,34 @@
 
 ---
 
+``
 # 📊 GitHub Stats
 
 <p align="center">
   
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=shivarajamurugan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shivarajamurugan&show_icons=true&theme=tokyonight"
+    height="180em"
+  />
 
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarajamurugan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarajamurugan&layout=compact&theme=tokyonight"
+    height="180em"
+  />
 
 </p>
-
----
 
 # 🔥 GitHub Streak
 
 <p align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=shivarajamurugan&theme=tokyonight&hide_border=true"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=shivarajamurugan&theme=tokyonight"
+  />
 
 </p>
+```
 
----
 
 ---
 
