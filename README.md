@@ -18,20 +18,20 @@
 
 # 🌟 About Me
 
-[cite_start]💻 **Passionate Java Full Stack Developer** with professional experience building responsive, scalable, and user-friendly web applications[cite: 6, 8].
+💻 **Passionate Java Full Stack Developer** with professional experience building responsive, scalable, and user-friendly web applications.
 
-[cite_start]🚀 Skilled in end-to-end application development, backend APIs, database management, and UI/UX design optimizations[cite: 7].
+🚀 Skilled in end-to-end application development, backend APIs, database management, and UI/UX design optimizations.
 
 🎯 **Currently focused on:**
-- [cite_start]Building enterprise-grade full-stack systems using **Spring Boot** and **React JS**[cite: 6].
+- Building enterprise-grade full-stack systems using **Spring Boot** and **React JS**.
 - Developing the **Smart Job Search Portal** and an **NLP Chatbot** to demonstrate end-to-end integration.
-- [cite_start]Implementing robust security and data architectures[cite: 11, 16].
+- Implementing robust security and data architectures.
 
 🔥 **Areas of Interest:**
 - Full Stack Enterprise Development
-- [cite_start]Microservices & Rest API Architecture 
-- [cite_start]Modern Responsive UI/UX Design [cite: 7, 16]
-- [cite_start]DevOps, Containers, and Cloud Deployment [cite: 15]
+- Microservices & Rest API Architecture
+- Modern Responsive UI/UX Design
+- DevOps, Containers, and Cloud Deployment
 
 ---
 
@@ -48,11 +48,19 @@
 </p>
 
 ### 🛠️ Core Backend & Framework Competencies:
-* [cite_start]**Languages & Core Frameworks:** Java, Spring, Spring Boot, Spring MVC 
-* [cite_start]**Data Persistence & ORM:** JDBC, Servlets, Hibernate 
-* [cite_start]**API Architecture:** REST APIs, Microservices Architecture 
-* [cite_start]**Security & Optimization:** JWT (JSON Web Tokens) Authentication, Lombok 
-* [cite_start]**Core Concepts:** CRUD Operations, API Integration [cite: 16]
+* **Languages & Core Frameworks:** Java, Spring, Spring Boot, Spring MVC
+* **Data Persistence & ORM:** JDBC, Servlets, Hibernate
+* **API Architecture:** REST APIs, Microservices Architecture
+* **Security & Optimization:** JWT (JSON Web Tokens) Authentication, Lombok
+* **Core Concepts:** CRUD Operations, API Integration
+
+---
+
+## 📐 Design, UI/UX & Branding
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+💡 *Core Competencies: UI/UX Design, Logo Design, Commercial Posters, and Visual Identity Design*
 
 ---
 
@@ -60,15 +68,15 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-[cite_start]💡 *Core Competencies: SQL, MySQL, RDBMS* [cite: 12]
+💡 *Core Competencies: SQL, MySQL, RDBMS*
 
 ---
 
 ## 🛠️ Tools & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,canva,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,docker,linux" />
 </p>
-[cite_start]💡 *Deployment & Platforms: Netlify, Vercel, GitHub Pages, Basic CI/CD Knowledge* [cite: 13, 15]
+💡 *Deployment & Platforms: Netlify, Vercel, GitHub Pages, Basic CI/CD Knowledge*
 
 ---
 
@@ -76,7 +84,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=chatgpt,claude" /> 
 </p>
-[cite_start]💡 *Leveraging ChatGPT, Google Gemini, and Claude AI for optimized development workflows.* [cite: 14]
+💡 *Leveraging ChatGPT, Google Gemini, and Claude AI for optimized development workflows.*
 
 ---
 
@@ -104,11 +112,11 @@
 # 🚀 Featured Projects
 
 ## 📦 Sainik Packers and Movers
-[cite_start]**Domain:** Logistics & Relocation Service Management System [cite: 27]
-- [cite_start]Developed a responsive web-based logistics application for online service bookings and enquiries[cite: 30].
-- [cite_start]Designed dynamic, secure booking forms featuring clean frontend client-side validations[cite: 31].
-- [cite_start]Engineered separate user, booking tracking, and administrative control modules for seamless workflow efficiency[cite: 32].
-- [cite_start]**Technologies:** HTML5, CSS3, Bootstrap, JavaScript [cite: 28]
+**Domain:** Logistics & Relocation Service Management System
+- Developed a responsive web-based logistics application for online service bookings and enquiries.
+- Designed dynamic, secure booking forms featuring clean frontend client-side validations.
+- Engineered separate user, booking tracking, and administrative control modules for seamless workflow efficiency.
+- **Technologies:** HTML5, CSS3, Bootstrap, JavaScript
 
 ## 💼 Smart Job Search Portal
 **Domain:** Enterprise Human Resources & Recruitment Stack
@@ -124,7 +132,7 @@
 ---
 
 # 🏅 Professional Certifications
-* [cite_start]**IBM Full Stack Software Developer Professional Certificate** – Credentials verifying comprehensive expertise across modern web stacks, including cloud-native architectures, containerization basics, and React applications[cite: 38, 39]. [cite_start]*(Credential ID: 49fd4d9cf526445e86c2fa4073f8f6df)* [cite: 39]
+* **IBM Full Stack Software Developer Professional Certificate** – Credentials verifying comprehensive expertise across modern web stacks, including cloud-native architectures, containerization basics, and React applications. *(Credential ID: 49fd4d9cf526445e86c2fa4073f8f6df)*
 
 ---
 
