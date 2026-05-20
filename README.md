@@ -71,9 +71,9 @@
 
 </p>
 
----
 
-``
+
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -99,10 +99,11 @@
   />
 
 </p>
-```
 
 
----
+
+
+
 
 # 🏆 GitHub Trophies
 
